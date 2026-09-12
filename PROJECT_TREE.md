@@ -1,0 +1,39 @@
+# Target project tree
+
+positron/
+  core/
+    models.py
+    constitution.py
+    epistemic.py
+    rscl.py
+    memory/
+    self_information/
+    contradiction/
+  runtime/
+    engine.py
+    graph.py
+    tools.py
+    checkpoints.py
+    approvals.py
+    providers/
+    verification/
+  security/
+    identity.py
+    guardian.py
+    audit.py
+  future/
+    planning.py
+    scenarios.py
+    humanity.py
+    generations.py
+  domains/
+    finance/
+    digital_guardian/
+    family_protection/
+  storage/
+    postgres/
+    migrations/
+  observability/
+  api/
+tests/
+docs/
