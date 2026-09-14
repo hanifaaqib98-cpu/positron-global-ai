@@ -1,0 +1,6 @@
+{
+  "name": "Positron Global AI",
+  "description": "Positron autonomous agent architecture, governance, runtime engine, and 2026 global AI ecosystem sweep reference platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
