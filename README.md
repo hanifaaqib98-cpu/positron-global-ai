@@ -1,18 +1,19 @@
-# POSITRON — COMPLETE MASTER PACKAGE v1.0
+# Positron Global AI (Android Native Edition)
 
-This package consolidates the Positron architecture, governance, runtime contracts, safety boundaries, future-planning design, and a runnable reference core.
+Positron is a reference platform for autonomous agent architecture, multi-channel gateway transport, governance, 13-stage runtime engine execution loops, epistemic evidence reconciliation, and 2026 global AI ecosystem capabilities sweep.
 
-It is a reference implementation/scaffold for an implementation AI. It is NOT a claim that a production autonomous system has already been deployed.
+## Features & Modules
 
-## Runtime
-OBSERVE → CONTEXT → REASON → PLAN → RSCL → VALUE/RISK → GUARDIAN → AUTHORIZE → ACT → VERIFY → COMMIT → REFLECT → LEARN
+- **13-Stage Runtime Execution Loop**: Visual execution ribbon (`OBSERVE` → `CONTEXT` → `REASON` → `PLAN` → `RSCL` → `VALUE/RISK` → `GUARDIAN` → `AUTHORIZE` → `ACT` → `VERIFY` → `COMMIT` → `REFLECT` → `LEARN`), interactive task dispatch, preset prompts, live event journal with stage filters, and durable state checkpoints.
+- **Guardian Security Console**: Policy boundary evaluation isolating LLM planning from high-risk tools (`deploy`, `delete`, `finance_transfer`), pending human authorization queue, and approval history ledger.
+- **Agent Gateway**: Multi-channel communication transport management (Web, Telegram, Discord, Slack, WhatsApp, Internal), channel security settings, test inbound envelope simulator, and outbound message queue log.
+- **2026 Global AI Ecosystem Sweep**: Searchable catalog of 70+ verified agent platforms, inter-agent protocols (MCP 2026, A2A 1.0), coding agents, physical AI models (GR00T, Cosmos), and persistent memory platforms with category and capability multi-filters.
+- **Subjective Consciousness & Epistemic Reconciliation**: Subjective consciousness core state monitor and evidence reconciliation engine with contradiction detection, confidence scoring, and synthesized epistemic view generation.
+- **Skills & Scheduler**: Skill specifications registry with permission scopes and risk levels alongside scheduled autonomous task cron triggers.
 
-Verification failure:
-VERIFY → ANALYZE → REPLAN → GUARDIAN → ACT → VERIFY
-bounded by a retry budget.
+## Technology Stack
 
-## Authority
-The model cannot grant itself permissions. High-impact/irreversible actions require explicit authorization. Financial, physical-security and self-modification domains remain isolated and policy-gated.
-
-## Build order
-See docs/MASTER_SPEC.md and docs/IMPLEMENTATION_RUNBOOK.md.
+- **Language**: Kotlin 2.0
+- **UI Framework**: Jetpack Compose & Material 3
+- **Architecture**: MVVM with `StateFlow` and Coroutines
+- **Build System**: Gradle Kotlin DSL (`.gradle.kts`)
