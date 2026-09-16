@@ -1,6 +1,6 @@
-# Positron Global AI (Android Native Edition)
+# Positron Global AI (React Web Edition)
 
-Positron is a reference platform for autonomous agent architecture, multi-channel gateway transport, governance, 13-stage runtime engine execution loops, epistemic evidence reconciliation, and 2026 global AI ecosystem capabilities sweep.
+Positron is an autonomous agent architecture, multi-channel gateway transport, governance platform, 13-stage runtime engine execution loop, epistemic evidence reconciliation engine, and 2026 global AI ecosystem capabilities sweep reference platform.
 
 ## Features & Modules
 
@@ -10,10 +10,11 @@ Positron is a reference platform for autonomous agent architecture, multi-channe
 - **2026 Global AI Ecosystem Sweep**: Searchable catalog of 70+ verified agent platforms, inter-agent protocols (MCP 2026, A2A 1.0), coding agents, physical AI models (GR00T, Cosmos), and persistent memory platforms with category and capability multi-filters.
 - **Subjective Consciousness & Epistemic Reconciliation**: Subjective consciousness core state monitor and evidence reconciliation engine with contradiction detection, confidence scoring, and synthesized epistemic view generation.
 - **Skills & Scheduler**: Skill specifications registry with permission scopes and risk levels alongside scheduled autonomous task cron triggers.
+- **AGI Future Core**: 5 AGI stage progression selector, superalignment metrics cards, Recursive Self-Improvement (RSI) loop trigger & history ledger, and macro human goal synthesizer.
 
 ## Technology Stack
 
-- **Language**: Kotlin 2.0
-- **UI Framework**: Jetpack Compose & Material 3
-- **Architecture**: MVVM with `StateFlow` and Coroutines
-- **Build System**: Gradle Kotlin DSL (`.gradle.kts`)
+- **Framework**: React 18 & Vite 6
+- **Language**: TypeScript 5
+- **Styling**: Tailwind CSS v4 & Lucide Icons
+- **Animation**: Motion (Framer Motion)
